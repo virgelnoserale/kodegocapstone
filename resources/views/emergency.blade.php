@@ -18,7 +18,7 @@
             <div class="col-md-6" id="col-top-gethelp">
                 <p id="get">Get help with emergency fundraising</p>
                 <p id="sub-get">With a CrowdFundBox, you can get help with emergency costs.</p>
-                <a href="https://github.com/login"> <button type="button" class="btn btn-success" id="center-button-medical">START a CrowdFundBox</button></a>
+                <a href="registration"> <button type="button" class="btn btn-success" id="center-button-medical">START a CrowdFundBox</button></a>
                 <p id="a-friend">Manoy raised php32k to help his community after devastating mudslides.</p>   
             </div>
             <div class="col-md-6">
@@ -106,7 +106,7 @@
         <div class="row">
             <div class="col">
                 <p id="ready">Ready to fundraise?</p>
-                <a href="https://github.com/login"> <button type="button" class="btn btn-success" id="center-button-medical-ready-bottom">START a CrowdFundBox</button></a>
+                <a href="registration"> <button type="button" class="btn btn-success" id="center-button-medical-ready-bottom">START a CrowdFundBox</button></a>
             </div>
         </div>
     </div>
@@ -115,7 +115,7 @@
         <div class="row">
             <div class="col-md">
             <div>
-            @include('layouts.customercare')
+            <!--     @include('layouts.customercare') -->
         </div>
             </div>
         </div>

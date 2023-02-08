@@ -34,6 +34,8 @@
         @yield('medical')
         @yield('emergency')
         @yield('education')
+        @yield('login')
+        @yield('registration')
     </div>
         <div>
             @include('layouts.footer')

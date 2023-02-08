@@ -29,10 +29,10 @@
             <a class="nav-link" href="howitswork">How its works</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="https://github.com/login">Sign in</a>
+            <a class="nav-link" href="login">Sign in</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="https://github.com/signup?source=login" id="start-button">START with CrowdfundBOX</a>
+            <a class="nav-link" href="registration" id="start-button">START with CrowdfundBOX</a>
         </li>
       </ul>
       </div>

@@ -32,3 +32,11 @@ Route::get ('/emergency', function (){
 Route::get ('/education', function (){
     return view('education');
 });
+
+Route::get ('/login', function (){
+    return view('login');
+});
+
+Route::get ('/registration', function (){
+    return view('registration');
+});
