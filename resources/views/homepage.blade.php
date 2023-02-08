@@ -15,7 +15,7 @@
         <div class="row">
             <div class="col">
             <p class= "slogan">Little help for a BIG cause. A little help can make a difference!!!</p>
-                                <a href="https://github.com/login"> <button type="button" class="btn btn-success" id="center-button">START with CrowdFundBox</button></a>
+                                <a href="registration"> <button type="button" class="btn btn-success" id="center-button">START with CrowdFundBox</button></a>
             </div>
         </div>
     </div>
@@ -33,7 +33,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-4">
-                    <div class="card" id="img-card1"><a href="https://github.com/login">
+                    <div class="card" id="img-card1"><a href="registration">
                     <img src="{{URL('images/donate.png')}}" class="card-img-top" id="img-do-in-teer1" alt="..."></a>
                     <div class="card-body">
                     <h5 class="card-title">Support CrowdFundBox</h5>
@@ -41,7 +41,7 @@
                     </div>
             </div>
             <div class="col-md-4">
-                    <div class="card" id="img-card2"><a href="https://github.com/login">
+                    <div class="card" id="img-card2"><a href="registration">
                     <img src="{{URL('images/involved.png')}}" class="card-img-top" id="img-do-in-teer2"  alt="..."> </a>
                     <div class="card-body">
                     <h5 class="card-title">Start Changing Lives</h5>
@@ -49,7 +49,7 @@
                     </div>
             </div>
             <div class="col-md-4">
-                    <div class="card" id="img-card3"><a href="https://github.com/login">
+                    <div class="card" id="img-card3"><a href="registration">
                     <img src="{{URL('images/volunteer.png')}}" class="card-img-top" id="img-do-in-teer3" alt="..."></a>
                     <div class="card-body">
                     <h5 class="card-title" id="card-title1" >Volunteer</h5>
