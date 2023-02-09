@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=, initial-scale=1.0">
-    <title>Education</title>
+    <title>Education CROWDFundingBOX #1 fundraising Platform..</title>
     <link rel="stylesheet" type="text/css" href="{{asset('css/vir-medical.css')}}">
 
 
@@ -17,8 +17,8 @@
         <div class="row">
             <div class="col-md-6" id="col-top-gethelp">
                 <p id="get">Get help with education fundraising</p>
-                <p id="sub-get">With a GoFundMe, you can quickly get help for school and education costs.</p>
-                <a href="registration"> <button type="button" class="btn btn-success" id="center-button-medical">START a CrowdFundBox</button></a>
+                <p id="sub-get">With a crowdfundingbox, you can quickly get help for school and education costs.</p>
+                <a href="registration"> <button type="button" class="btn btn-success" id="center-button-medical">START a crowdfundingbox</button></a>
                 <p id="a-friend">Katie raised php80k so every kid in her school could get a bike.</p>   
             </div>
             <div class="col-md-6">
@@ -51,7 +51,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md">
-                <p id="title-stories">CrowdFundBox Fundraising Stories</p>
+                <p id="title-stories">crowdfundingbox Fundraising Stories</p>
             </div>
         </div>
     </div>
@@ -78,7 +78,7 @@
             <img src="{{URL('images/education-stories-2.png')}}" class="d-block w-100" alt="...">
             <div class="carousel-caption d-none d-md-block">
                 <h5 class="title-slide">FOCUSING ON LEARNING</h5>
-                <p class="content-slide">As a first-year teacher, Neneng wants the best for her students but can't necessarily afford it. She turned to CrowdFundBox to raise php50k to equip her classroom.</p>
+                <p class="content-slide">As a first-year teacher, Neneng wants the best for her students but can't necessarily afford it. She turned to crowdfundingbox to raise php50k to equip her classroom.</p>
             </div>
             </div>
             <div class="carousel-item">
@@ -107,7 +107,7 @@
         <div class="row">
             <div class="col">
                 <p id="ready">Ready to fundraise?</p>
-                <a href="registration"> <button type="button" class="btn btn-success" id="center-button-medical-ready-bottom">START a CrowdFundBox</button></a>
+                <a href="registration"> <button type="button" class="btn btn-success" id="center-button-medical-ready-bottom">START a CrowdFundingBox</button></a>
             </div>
         </div>
     </div>

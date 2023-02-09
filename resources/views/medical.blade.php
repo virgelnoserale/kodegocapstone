@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=, initial-scale=1.0">
-    <title>Medical</title>
+    <title>Medical CROWDFundingBOX #1 fundraising Platform..</title>
     <link rel="stylesheet" type="text/css" href="{{asset('css/vir-medical.css')}}">
 
 

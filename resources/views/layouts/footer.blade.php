@@ -9,7 +9,7 @@
  
 <div class="container-fluid">
      <div class="row" id="footer">
-        <div class="col-md-12" >2015-2023 CrowdFunDBox with KodeGo bootcamp</div>
+        <div class="col-md-12" >2015-2023 CrowdFundingBox</div>
 </body>
 
         

@@ -1,4 +1,9 @@
 
+<style>
+  navbar:hover{
+    color:gray;
+  }
+</style>
 
 <nav class="navbar navbar-expand-lg bg-body-tertiary" id="navbar">
   <div class="container">
@@ -21,10 +26,10 @@
             <li><a class="dropdown-item" href="/education">Education</a></li>
           </ul>
         </li>
-        <li class="nav-item">
+      <!--  <li class="nav-item">
             <a class="nav-link" href="about">For charities</a>
         </li>
-        
+        -->
         <li class="nav-item">
             <a class="nav-link" href="howitswork">How its works</a>
         </li>
@@ -32,7 +37,7 @@
             <a class="nav-link" href="login">Sign in</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="registration" id="start-button">START with CrowdfundBOX</a>
+            <a class="nav-link" href="registration" id="start-button">START with CrowdfundingBOX</a>
         </li>
       </ul>
       </div>

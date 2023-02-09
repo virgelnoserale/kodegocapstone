@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=, initial-scale=1.0">
-    <title>Emergency</title>
+    <title>Emergency CROWDFundingBOX #1 fundraising Platform..</title>
     <link rel="stylesheet" type="text/css" href="{{asset('css/vir-medical.css')}}">
 
 
@@ -17,8 +17,8 @@
         <div class="row">
             <div class="col-md-6" id="col-top-gethelp">
                 <p id="get">Get help with emergency fundraising</p>
-                <p id="sub-get">With a CrowdFundBox, you can get help with emergency costs.</p>
-                <a href="registration"> <button type="button" class="btn btn-success" id="center-button-medical">START a CrowdFundBox</button></a>
+                <p id="sub-get">With a crowdfundingbox, you can get help with emergency costs.</p>
+                <a href="registration"> <button type="button" class="btn btn-success" id="center-button-medical">START a CrowdFundingBox</button></a>
                 <p id="a-friend">Manoy raised php32k to help his community after devastating mudslides.</p>   
             </div>
             <div class="col-md-6">
@@ -51,7 +51,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md">
-                <p id="title-stories">CrowdFundBox Fundraising Stories</p>
+                <p id="title-stories">CrowdFundingBox Fundraising Stories</p>
             </div>
         </div>
     </div>
@@ -106,7 +106,7 @@
         <div class="row">
             <div class="col">
                 <p id="ready">Ready to fundraise?</p>
-                <a href="registration"> <button type="button" class="btn btn-success" id="center-button-medical-ready-bottom">START a CrowdFundBox</button></a>
+                <a href="registration"> <button type="button" class="btn btn-success" id="center-button-medical-ready-bottom">START a CrowdFundingBox</button></a>
             </div>
         </div>
     </div>
